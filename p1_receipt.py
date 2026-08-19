@@ -1,6 +1,3 @@
-# Ni-a
-Willing to learn something new
-
 customer_name = str(input("Enter Customer Name: "))
 contact_no = str(input("Enter your Contact No. : "))
 address = str(input("Enter your Address: "))
